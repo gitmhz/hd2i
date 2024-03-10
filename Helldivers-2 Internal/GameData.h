@@ -1,6 +1,7 @@
 #pragma once
 class GameData
 {
+
 	public:
 		bool	InfAmmo = false;
 		bool	InfAmmoLegit = false;
